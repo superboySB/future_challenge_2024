@@ -1,0 +1,18 @@
+[
+  {
+    "TestScenarioID": 1,
+    "TestInstructionID": 3,
+    "VLPDecisionPositionID": 55
+  },
+  {
+    "TestScenarioID": 2,
+    "TestInstructionID": 5,
+    "VLPDecisionPositionID": 78
+  },
+  {
+    "TestScenarioID": 3,
+    "TestInstructionID": 2,
+    "VLPDecisionPositionID": 32
+  }
+]
+
